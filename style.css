@@ -1,0 +1,15 @@
+h1,h2 {
+    color: red;
+}
+.box > p {
+    color: orange;
+}
+.box li {
+    color: green;
+}
+li.done {
+    color: magenta;
+} 
+ul p.done{
+    font-size: 0.5rem;
+}
